@@ -2,7 +2,7 @@
 
 ## Description
 
-The rates are as follows: the cost of a plate per person is USD 4.77, but if the number of people is greater than 200 but less than or equal to 300, the cost is USD 4.27, for more than 300 people the cost per plate is $ 3.77.
+The rates are as follows: the cost of a plate per person is USD 4.77, but if the number of people is greater than 200 but less than or equal to 300, the cost is USD 4.27, for more than 300 people the cost per plate is USD 3.77.
 Determine the budget that must be presented to clients who wish to hold an event.
 
 ## Solution
