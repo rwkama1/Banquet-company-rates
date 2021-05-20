@@ -1,0 +1,16 @@
+{
+  "name": "banquet-company",
+  "version": "1.0.0",
+  "description": "Algorithm for a company dedicated to offering banquets",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Banquet-company-rates"
+  },
+ 
+  "keywords": ["js","javascript","calculation","banquets","company"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
